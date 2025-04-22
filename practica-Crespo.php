@@ -1,6 +1,6 @@
 <?php
 /**
- * Script de ejemplo para práctica con PHPDoc.MODIFICANDO PARA GIT
+ * Script de ejemplo para práctica con PHPDoc.
  *
  * Este script contiene dos funciones: una para sumar números y otra para generar saludos personalizados.
  *
